@@ -8,7 +8,7 @@ This is made for a machine test.
 
 😊 It follows SOLID principles and clean architecture with BLoC
 
-## [Adope](https://aswanath.github.io/adope/#/)
+## [Adope](https://aswanath.github.io/adope-pet_adoption/)
 
 ## Getting Started
 
